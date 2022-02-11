@@ -1,6 +1,1 @@
-def print_hello(name):
-    print(f'{name}')
-
-
-if __name__ == '__main__':
-    print_hello('Hello, SysTech!')
+print('Угадай число в диапазоне от 1 до 10')
